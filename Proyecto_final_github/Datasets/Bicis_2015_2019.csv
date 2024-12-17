@@ -1,0 +1,29 @@
+Estacions dels serveis Bicing, Bicibox i e-Bicibox
+Unitat: [Estacions]
+
+Any;Servei;Tipus de propulsió;Estacions
+2015;Bicing;Mecànica;420
+2015;Bicing;Elèctrica;46
+2015;Bicibox;Mecànica;142
+2015;e-Bicibox;Elèctrica;0
+2016;Bicing;Mecànica;420
+2016;Bicing;Elèctrica;46
+2016;Bicibox;Mecànica;156
+2016;e-Bicibox;Elèctrica;0
+2017;Bicing;Mecànica;420
+2017;Bicing;Elèctrica;46
+2017;Bicibox;Mecànica;156
+2017;e-Bicibox;Elèctrica;0
+2018;Bicing;Mecànica;420
+2018;Bicing;Elèctrica;46
+2018;Bicibox;Mecànica;167
+2018;e-Bicibox;Elèctrica;0
+2019;Bicing;Mecànica;519
+2019;Bicing;Elèctrica;0
+2019;Bicibox;Mecànica;168
+2019;e-Bicibox;Elèctrica;41
+;;;
+Nota: Dades Anuals a 31 de desembre; Dades del 2019 fins al 30 de juny;;;
+Font: Bicing i Àrea Metropolitana de Barcelona.;;;
+Darrera actualització: 23-02-2023;;;
+(CC BY 3.0 ES) Institut d'Estudis Regionals i Metropolitans de Barcelona;;;
